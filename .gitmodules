@@ -1,6 +1,0 @@
-[submodule "odin-recipes"]
-	path = odin-recipes
-	url = https://github.com/Sazid99246/odin-recipes.git
-[submodule "repos/odin-recipes"]
-	path = repos/odin-recipes
-	url = https://github.com/Sazid99246/odin-recipes.git
