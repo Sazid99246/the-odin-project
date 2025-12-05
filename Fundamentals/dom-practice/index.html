@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const body = document.body;
+        const p = document.createElement("p");
+        p.innerText = "Hey I'm red!";
+        p.style.color = "red";
+        body.appendChild(p)
+
+        const h3 = document.createElement("h3");
+        h3.innerText = "I’m a blue h3!";
+        p.style.color = "blue";
+        body.appendChild(h3)
+
+        const div = document.createElement("div");
+        div.style.border = "3px solid black";
+        div.style.backgroundColor = "pink";
+        const h1 = document.createElement("h1");
+        h1.innerText = "I’m in a div";
+        div.appendChild(h1);
+        p.innerText = "ME TOO!";
+        div.appendChild(p);
+        body.appendChild(div);
+    </script>
+</body>
+</html>
