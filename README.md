@@ -18,6 +18,13 @@ This is my repository for all the projects and courseworks of The Odin Project C
 
 ### Intermediate HTML and CSS
 
-| Sl. No. | Project Name |                          Github Repository                 |                                 Live Link                  |
-| :-----: | :----------: | :--------------------------------------------------------- | :--------------------------------------------------------- |
-|    6    | Sign-up Form | [Source Code](https://github.com/Sazid99246/sign-up-form/) | [Odin Recipes](https://sazid99246.github.io/sign-up-form/) |
+| Sl. No. |   Project Name  |                          Github Repository                   |                                    Live Link                     |
+| :-----: | :-------------: | :----------------------------------------------------------- | :--------------------------------------------------------------- |
+|    6    | Sign-up Form    | [Source Code](https://github.com/Sazid99246/sign-up-form/)   | [Odin Recipes](https://sazid99246.github.io/sign-up-form/)       |
+|    7    | Admin Dashboard | [Souce Code](https://github.com/Sazid99246/admin-dashboard/) | [Admin Dashboard](https://sazid99246.github.io/admin-dashboard/) |
+
+### JavaScript
+
+| Sl. No. | Project Name |                   Github Repository                   |                       Live Link                       |
+| :-----: | :----------- | :-------------------------------------------------- - | :---------------------------------------------------- |
+|    7    | Library      | [Source Code](https://github.com/Sazid99246/library/) | [Library](https://sazid99246.github.io/sign-up-form/) |
