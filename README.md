@@ -25,6 +25,7 @@ This is my repository for all the projects and courseworks of The Odin Project C
 
 ### JavaScript
 
-| Sl. No. | Project Name |                   Github Repository                   |                       Live Link                       |
-| :-----: | :----------- | :---------------------------------------------------- | :---------------------------------------------------- |
-|    7    | Library      | [Source Code](https://github.com/Sazid99246/library/) | [Library](https://sazid99246.github.io/sign-up-form/) |
+| Sl. No. | Project Name |                     Github Repository                     |                        Live Link                         |
+| :-----: | :----------- | :-------------------------------------------------------- | :------------------------------------------------------- |
+|    7    | Library      | [Source Code](https://github.com/Sazid99246/library/)     | [Library](https://sazid99246.github.io/sign-up-form/)    |
+|    8    | Tic Tac Toe  | [Source Code](https://github.com/Sazid99246/tic-tac-toe/) | [Tic Tac TOe](https://sazid99246.github.io/tic-tac-toe/) |
