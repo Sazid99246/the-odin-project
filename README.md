@@ -37,3 +37,5 @@ This is my repository for all the projects and courseworks of The Odin Project C
 |   14    | Hashmap            | [Source Code](https://github.com/Sazid99246/odin-hashmap/)              |                                                                  |
 |   15    | Binary Search Tree | [Source Code](https://github.com/Sazid99246/odin-bst)                   |                                                                  |
 |   16    | Knights Travails   | [Source Code](https://github.com/Sazid99246/KnightsTravails)            |                                                                  |
+|   17    | Testing practice   | [Source Code](https://github.com/Sazid99246/odin-testing-practice)      |                                                                  |
+|   17    | Battleship         | [Source Code](https://github.com/Sazid99246/battleship)                 | [Battleship](https://sazid99246.github.io/battleship/)           |
