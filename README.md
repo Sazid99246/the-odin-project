@@ -40,3 +40,9 @@ This is my repository for all the projects and courseworks of The Odin Project C
 |   17    | Testing practice   | [Source Code](https://github.com/Sazid99246/odin-testing-practice)      |                                                                  |
 |   18    | Battleship         | [Source Code](https://github.com/Sazid99246/battleship)                 | [Battleship](https://sazid99246.github.io/battleship/)           |
 |   19    | Homepage           | [Source Code](https://github.com/Sazid99246/homepage/)                  | [Homepage](https://sazid99246.github.io/homepage/)               |
+
+### React
+
+| Sl. No. |  Project Name  |                      Github Repository                     |                              Live Link                               |
+| :-----: | :------------- | :--------------------------------------------------------- | :------------------------------------------------------------------- |
+|   20    | CV Application | [Souce Code](https://github.com/Sazid99246/cv-application) | [CV Application](https://delightful-biscochitos-fb600d.netlify.app/) |
