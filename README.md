@@ -43,6 +43,7 @@ This is my repository for all the projects and courseworks of The Odin Project C
 
 ### React
 
-| Sl. No. |  Project Name  |                      Github Repository                     |                              Live Link                               |
-| :-----: | :------------- | :--------------------------------------------------------- | :------------------------------------------------------------------- |
-|   20    | CV Application | [Souce Code](https://github.com/Sazid99246/cv-application) | [CV Application](https://delightful-biscochitos-fb600d.netlify.app/) |
+| Sl. No. |  Project Name  |                      Github Repository                      |                              Live Link                               |
+| :-----: | :------------- | :---------------------------------------------------------- | :------------------------------------------------------------------- |
+|   20    | CV Application | [Source Code](https://github.com/Sazid99246/cv-application) | [CV Application](https://delightful-biscochitos-fb600d.netlify.app/) |
+|   21    |  Memory Card   | [Source Code](https://github.com/Sazid99246/memory-card)    | [Memory Card](https://super-gelato-9f5025.netlify.app/)              |
