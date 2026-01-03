@@ -19,12 +19,30 @@ const lengthErr = "must be between 1 and 10 characters.";
 
 
 const validateUser = [
-  body("firstName").trim()
-    .isAlpha().withMessage(`First name ${alphaErr}`)
-    .isLength({ min: 1, max: 10 }).withMessage(`First name ${lengthErr}`),
-  body("lastName").trim()
-    .isAlpha().withMessage(`Last name ${alphaErr}`)
-    .isLength({ min: 1, max: 10 }).withMessage(`Last name ${lengthErr}`),
+  body("firstName")
+    .trim()
+    .isAlpha().withMessage("First name must contain only letters.")
+    .isLength({ min: 1, max: 10 }),
+
+  body("lastName")
+    .trim()
+    .isAlpha().withMessage("Last name must contain only letters.")
+    .isLength({ min: 1, max: 10 }),
+
+  body("email")
+    .trim()
+    .isEmail().withMessage("Email must be valid.")
+    .normalizeEmail(),
+
+  body("age")
+    .optional({ values: "falsy" })
+    .isInt({ min: 18, max: 120 })
+    .withMessage("Age must be between 18 and 120."),
+
+  body("bio")
+    .optional({ values: "falsy" })
+    .isLength({ max: 200 })
+    .withMessage("Bio must be under 200 characters.")
 ];
 
 
@@ -38,8 +56,8 @@ exports.usersCreatePost = [
         errors: errors.array(),
       });
     }
-    const { firstName, lastName } = matchedData(req);
-    usersStorage.addUser({ firstName, lastName });
+    const userData = matchedData(req);
+    usersStorage.addUser(userData);
     res.redirect("/");
   }
 ];
@@ -64,8 +82,8 @@ exports.usersUpdatePost = [
         errors: errors.array(),
       });
     }
-    const { firstName, lastName } = matchedData(req);
-    usersStorage.updateUser(req.params.id, { firstName, lastName });
+    const userData = matchedData(req);
+    usersStorage.updateUser(req.params.id, userData);
     res.redirect("/");
   }
 ];
