@@ -48,3 +48,9 @@ This is my repository for all the projects and courseworks of The Odin Project C
 |   20    | CV Application | [Source Code](https://github.com/Sazid99246/cv-application) | [CV Application](https://delightful-biscochitos-fb600d.netlify.app/) |
 |   21    | Memory Card    | [Source Code](https://github.com/Sazid99246/memory-card)    | [Memory Card](https://super-gelato-9f5025.netlify.app/)              |
 |   22    | Book Store     | [Source Code](https://github.com/Sazid99246/book-store)     | [Book Store](https://chic-salmiakki-6a04e7.netlify.app/)             |
+
+### NodeJs
+| Sl. No. |      Project Name      |                          Github Repository                          |                                  Live Link                                  |
+| :-----: | :--------------------- | :-----------------------------------------------------------------  | :-------------------------------------------------------------------------- |
+|    23   | Basic Information Site | [Source Code](https://github.com/Sazid99246/basic-information-site) | [Basic Information Site](https://basic-information-site-hx7a.onrender.com/) |
+|    24   | Mini Message Board     | [Souce Code](https://github.com/Sazid99246/mini-message-board)      | [Mini Message Board](https://mini-message-board-45qm.onrender.com/)         |
