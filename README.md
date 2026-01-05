@@ -54,3 +54,4 @@ This is my repository for all the projects and courseworks of The Odin Project C
 | :-----: | :--------------------- | :-----------------------------------------------------------------  | :-------------------------------------------------------------------------- |
 |    23   | Basic Information Site | [Source Code](https://github.com/Sazid99246/basic-information-site) | [Basic Information Site](https://basic-information-site-hx7a.onrender.com/) |
 |    24   | Mini Message Board     | [Souce Code](https://github.com/Sazid99246/mini-message-board)      | [Mini Message Board](https://mini-message-board-45qm.onrender.com/)         |
+|    24   | Inventory Application  | [Souce Code](https://github.com/Sazid99246/inventory-application/)  | [Inventory Application](https://inventory-application-9b9j.onrender.com/)   |
